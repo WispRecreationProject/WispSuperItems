@@ -9,6 +9,7 @@ public final class WispSuperItems extends JavaPlugin {
     @Override
     public void onEnable() {
         Bukkit.getPluginManager().registerEvents(new CraftingListener(), this);
+        Bukkit.getPluginManager().registerEvents(new AnvilListener(), this);
         new Metrics(this, 10880);
         getCommand("wispsuperitems").setExecutor(new StartCommand());
         getCommand("wispsuperitems").setTabCompleter(new CommandComplete());
