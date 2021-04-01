@@ -1,0 +1,16 @@
+dev\yhdiamond\wispsuperitems\bstats\Metrics$MetricsBase.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$AdvancedPie.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$AdvancedBarChart.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$JsonObjectBuilder$JsonObject.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$CustomChart.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$MultiLineChart.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$1.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$DrilldownPie.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$SimpleBarChart.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$SingleLineChart.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics.class
+dev\yhdiamond\wispsuperitems\WispSuperItems.class
+dev\yhdiamond\wispsuperitems\CraftingListener.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$JsonObjectBuilder.class
+dev\yhdiamond\wispsuperitems\bstats\Metrics$SimplePie.class
+dev\yhdiamond\wispsuperitems\CommandComplete.class

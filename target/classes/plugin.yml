@@ -1,0 +1,8 @@
+name: WispSuperItems
+version: 1.0-SNAPSHOT
+main: dev.yhdiamond.wispsuperitems.WispSuperItems
+api-version: 1.16
+commands:
+  wispsuperitems:
+    usage: /wispsuperitems <start/stop>
+    description: Starts the Wisp Super Items challenge.
